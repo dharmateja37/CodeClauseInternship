@@ -1,0 +1,27 @@
+     ********** Personal Information **********     
+Firstname: dharmateja
+Surname: d
+Address: bangalore
+
+
+ Pincode: 560092
+Nationality: indian
+DOB: 22/06/2002
+Phone No.: 1234567890
+Email: dteja860@gmail.com
+     ********** Skills **********     
+Category: coding
+Description
+Category: communication
+Description
+Category: leadership
+Description: 
+     ********** Qualifications **********     
+College/University: DSCE
+School: 
+Other: 
+     ********** Work Experience **********     
+Company: accenture
+Designation: ASD
+Company: INFOSYS
+Designation: SD

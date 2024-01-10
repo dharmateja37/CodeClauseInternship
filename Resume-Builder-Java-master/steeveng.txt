@@ -1,0 +1,27 @@
+     ********** Personal Information **********     
+Firstname: steeven
+Surname: g
+Address: 
+
+
+ Pincode: 
+Nationality: 
+DOB: 
+Phone No.: 
+Email: 
+     ********** Skills **********     
+Category: 
+Description
+Category: 
+Description
+Category: 
+Description: 
+     ********** Qualifications **********     
+College/University: 
+School: 
+Other: 
+     ********** Work Experience **********     
+Company: 
+Designation: 
+Company: 
+Designation: 
